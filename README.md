@@ -31,12 +31,7 @@ Connect to the API using Postman on port 8000.
        <td>POST</td>
        <td>/questions/create</td>
        <td>To create a question</td>
-    </tr>
-    <tr>
-       <td>POST</td>
-       <td>/questions/create</td>
-       <td>To create a question</td>
-    </tr>
+    </tr>  
     <tr>
        <td>POST</td>
        <td>/questions/:id/options/create</td>
